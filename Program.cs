@@ -10,26 +10,6 @@
             int correctAnswers = 0;
             int questionCount = 0;
 
-            //int add(int a, int b)
-            //{
-            //    return a + b;
-            //}
-
-            //int subtract(int a, int b)
-            //{
-            //    return a - b;
-            //}
-
-            //int divide(int a, int b)
-            //{
-            //    return a / b;
-            //}
-
-            //int multiply(int a, int b)
-            //{
-            //    return a * b;
-            //}
-
             Console.WriteLine($"Total number of questions: {totalQuestions}");
             for (int i = 0; i < totalQuestions; i++)
             {
